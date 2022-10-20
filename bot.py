@@ -1,3 +1,4 @@
+# main file for the discord bot
 # import discord and bot_returns.py
 import discord
 import bot_returns
