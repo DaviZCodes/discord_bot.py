@@ -40,7 +40,7 @@ def run_bot():
 
         print(f'{username} " said " {user_message} in the channel: {channel}')  # printing what user says to console
 
-        if user_message[0] == "!":
+        if user_message[0] == "!":  # prefix for the bot
             # exclude the first two characters
             user_message = user_message[1:]
             await send_message(message, user_message, is_private=True)
