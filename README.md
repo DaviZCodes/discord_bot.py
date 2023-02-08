@@ -1,2 +1,2 @@
-### My discord bot
+# My discord bot
 ## Author: DaviZCodes
